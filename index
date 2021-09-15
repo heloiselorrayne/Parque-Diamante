@@ -1,0 +1,93 @@
+<!doctype html>
+<htmtl>
+	<head>
+		<title>Parque Diamante</title>
+		<meta charset="utf-8">
+      <link rel="stylesheet" href="./style.css">
+	</head>
+
+	<body>
+       <menu>
+	     <a href="index.html"> Home </a>
+    	   /
+        <a href="Praça de Alimentação.html">Praça de Alimentação </a>
+         /
+        <a href="Caminhada.html">Caminhada </a>
+       </menu>
+		<h1>Parque Diamante</h1>
+
+      <img src="https://source.unsplash.com/random/300x300" alt="Helo">
+
+		   <hr>
+       
+
+      <main>
+
+      
+   <header class="">
+      <h2> Sobre o parque </h2>
+   <p><div>Dona: Heloise Lorrayne</div>
+   <div> Desde 2003</div></p>
+
+
+  
+      <address>
+         Endereço:
+         Brasil, São Paulo<br>
+         Local:
+         Rua dos Alfeneiros, nº4 <br>
+         CEP: 08919-123
+      </address>
+     
+   </header>
+
+      <p><strong>Divertido, seguro, um lar</strong></p>
+      <div>Aqui você se diverte sem qualquer preocupação <br>
+      Sua segurança é a nossa maior preocupação</div>
+
+      <hr>
+      </main>
+      <h2>Mapa do parque</h2>
+      <img src="https://source.unsplash.com/random/300x300" alt="Helo">
+
+
+      <ul>
+        <li>G1 - <a href="Praça de Alimentação.html">Praça de Alimentação</a> </li>
+         <li>G2 - <a href="Caminhada.html">Caminhada</a></li>
+         <li>G3 - <a href="Brinquedos.html"> Brinquedos </a></li>
+      </ul>
+
+      <hr>
+
+     
+   </section>  
+
+   <footer>
+      <h2>Contato</h2>
+      <ul>
+      	<li>123456789</li>
+      	<li>987654321</li>
+      	<li>321654987</li>
+      	<li>789456123</li>
+      </ul>
+   </footer>
+
+   <aside>
+      <p>Anúncios</p>
+   </aside>
+
+   <figure>
+   <img src="https://source.unsplash.com/random/300x300" alt="Helo"> 
+   <figcaption> foto da helo </figcaption>
+   </figure>
+
+   <article>
+      Um paragrafo aqui <br>
+      As tags tem sentido semantico
+   </article>
+
+  
+
+
+   </body>
+   </htmtl>
